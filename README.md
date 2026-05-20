@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @parthkrishnani
 - 👀 I’m interested in java, python, css and xml
-- 🌱 I’m currently learning lua
 - 📫 How to reach me: krishnaniparth@gmail.com
 
 <!---
