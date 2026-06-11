@@ -1,4 +1,4 @@
-Physics Undergraduate @ IIT Kanpur
+Physics Undergraduate @ IITK
 <br>
 Interested in Computational Physics,
 Scientific Computing, and Numerical Methods.
