@@ -1,4 +1,4 @@
-First Year UG Physics Student @ IITK
+UG Physics @ IITK
 <br>
 Interested in Python and C++ for Computational Physics
 <br>
