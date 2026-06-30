@@ -1,4 +1,4 @@
-Physics Undergraduate @ IITK
+Physics Undergrad @ IITK
 <br>
 Interested in Computational Physics,
 Scientific Computing, and Numerical Methods.
